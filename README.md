@@ -5,6 +5,6 @@ Language used:
 Pyhton
 
 Modules Used:
-Pygame,
+pygame,
 socket,
 pickle
